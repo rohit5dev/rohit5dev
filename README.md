@@ -33,6 +33,10 @@ Writing: 30+ articles, 500K+ views
 - Own **CI/CD and zero-downtime deployments** on Azure with GitHub Actions and Azure Pipelines
 - Lead architectural decisions as the sole or core developer on multiple production products
 
+
+![Snake animation](https://raw.githubusercontent.com/rohit5dev/rohit5dev/output/github-snake.svg)
+  
+
 ```zsh
 > cat contact.txt
 ```
